@@ -1,0 +1,17 @@
+<!ENTITY name "TemporalAnnotationEcon">
+
+<!--
+ ~ This is the DTD file for The Temporal Annotation of Economic News Project, created by Kristen Sheets, Jingdi Shen and Keren Sun for Natural Language Annotation for Machine Learning.
+  -->
+
+<!-- #PCDATA makes an event tag-->
+<!ELEMENT EVENT ( #PCDATA ) >
+
+<!-- #PCDATA makes an time expression tag-->
+<!ELEMENT TIMEX ( #PCDATA ) >
+
+<!ELEMENT TLINK EMPTY >
+<!-- adding custom arguments (more than binary)-->
+<!ATTLIST TLINK before #IMPLIED>
+<!ATTLIST TLINK during #IMPLIED>
+<!ATTLIST TLINK after  #IMPLIED>
