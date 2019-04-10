@@ -13,5 +13,6 @@
 <!ELEMENT TLINK EMPTY >
 <!-- adding custom arguments (more than binary)-->
 <!ATTLIST TLINK before #IMPLIED>
-<!ATTLIST TLINK during #IMPLIED>
+<!ATTLIST TLINK overlap #IMPLIED>
 <!ATTLIST TLINK after  #IMPLIED>
+<!ATTLIST TLINK unrealized  #IMPLIED>
