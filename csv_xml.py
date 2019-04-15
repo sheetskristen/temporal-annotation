@@ -3,10 +3,9 @@ from bs4 import BeautifulSoup
 
 
 FILE = 'Full-Economic-News-DFE-839861.csv'
-OUTPUT_1 = 'ECON-NEWS-1.xml'
-#OUTPUT_2 = 'ECON-NEWS-2.xml'
-#OUTPUT_3 = 'ECON-NEWS-3.xml'
+OUTPUT = 'ECON-NEWS-BATCH-'
 HOLD_OUT = 'ECON-NEWS-HOLDOUT.xml'
+OUTPUT_NUM = 20
 
 
 def convert_row(row):
@@ -35,12 +34,16 @@ with open(FILE, encoding='utf-8', errors='ignore') as f:
     # annotate = [data[i] for i in range(1, len(data)) if i%13 == 1]
 
     set_1 = [data[i] for i in range(0, len(data)) if i%80 == 0]
-    # set_2 = [data[i] for i in range(0, len(annotate)) if i % 3 == 1]
-    # set_3 = [data[i] for i in range(0, len(annotate)) if i % 3 == 2]
+    # print(set_1)
 
-    print(len(set_1))
-    write_file(set_1, OUTPUT_1)
-    # write_file(set_2, OUTPUT_2)
-    # write_file(set_3, OUTPUT_3)
+    amount = int(len(set_1)/OUTPUT_NUM)
+    index = 0
+    for i in range(1,19):
+        end = index+amount
+        set = set_1[index:end]
+        write_file(set, OUTPUT+str(i)+'.xml')
+        index = end
 
-    #print('\n'.join([convert_row(row) for row in data[1:]]))
+    set = set_1[index:]
+    write_file(set, OUTPUT+'20.xml')
+
