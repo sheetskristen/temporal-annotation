@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalAnnotationEcon>
+<TEXT><![CDATA[<UNIT_ID="842614258">
+    <ARTICLE_DATE>3/17/97</ARTICLE_DATE>
+    <TEXT>Care to guess what has been the highest-flying of the larger technology stocks in the past year?It isn't Intel, Microsoft or even Iomega. Of stocks with more than $1 billion in market value, the biggest percentage gainer is Dell Computer, a company that does nothing more complicated than assemble computers and mail them to customers.In the past 12 months, Dell's stock price has more than quadrupled. Intel is up 146%, Microsoft has doubled, and data-storage darling Iomega, after a dramatic rise and fall, is up 55%. As many tech stocks have sagged in the past few weeks, Dell has proved surprisingly robust, losing just 7.4% off its Feb. 26 high. It closed Friday at 70 1/8, down 2 1/8.What explains Dell's startling stock-market success? Two things -- one good and another more worrisome.The good news is that Dell has been firing on all cylinders amid strong double-digit unit growth for world-wide personal computer sales. Dell's once-controversial formula -- skipping middlemen by selling direct, and building machines only once they are ordered -- has become the envy of the industry.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842614338">
+    <ARTICLE_DATE>10/28/13</ARTICLE_DATE>
+    <TEXT>Social media users can debate whether Facebook or Twitter is a better place to post a picture of their kid or a snarky comment.Now, investors are having a similar conversation: Which platform offers them a better value for their money?ReutersBased on IPO price versus pre-IPO price, Twitter Inc. is taking a more conservative approach to pricing than Facebook Inc. did. But by some measures, Twitter is being pitched to investors at a price that may make it appear more expensive than Facebook stock is right now.The microblogging company has proposed an initial public offering price below where some investors already own the stock, and below where the company earlier this year pegged its own value.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842614418">
+    <ARTICLE_DATE>9/12/91</ARTICLE_DATE>
+    <TEXT>JAPANESE FIRMS' PRODUCTIVITYJapanese corporations' productivity lags behind their U.S. counterparts in terms of purchasing-power parity, the Japan Productivity Center said in its latest survey. This parity compares the amount of goods that can be bought for a certain amount of money.Average productivity in all Japanese industries, or gross domestic product per employee, was less than that in the U.S., France, the former West Germany, and Britain. The U.S. surpassed Japan in productivity by 31%. The figures are for 1988, the latest available.In forestry and fisheries, the U.S. was more than three times as productive as Japan. Japan almost equaled France in manufacturing but was outpaced by the U.S. and Britain.Japan had the advantage only in the electric power, natural gas and water supply industries. It fell behind the U.S. in commerce, transportation, warehousing and communications.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842614498">
+    <ARTICLE_DATE>4/25/00</ARTICLE_DATE>
+    <TEXT>NEW YORK -- After mild fluctuations, major currencies ended little changed.With European financial markets closed for the Easter holiday and little data to trade on, analysts say investors initially sold technology stocks and the dollar on news that Microsoft Corp. might be forced to split off its various divisions.The dollar rebounded during the New York session, despite a mixed performance in the U.S. stock market, where the Nasdaq Composite Index fell about 160 points and the Dow Jones Industrial Average rose about 62 points."It takes more than Nasdaq moves lately to have a sustained impact on the dollar," said Bob Lynch, currency strategist in New York with French bank Paribas. "The impact [the Microsoft report] had might have been more sizable than normal, too, because there was nothing else to focus on."Late Monday, the dollar was at 105.79 yen, nearly unchanged from 105.84 yen late Friday. The euro was at 93.75 cents, little changed from 93.81 cents late Friday in New York. Against the yen, the euro slid to 99.22 yen from 99.36 yen late Friday.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842614578">
+    <ARTICLE_DATE>6/23/97</ARTICLE_DATE>
+    <TEXT>Earlier this month an ad appeared in this newspaper entitled "Declaration of Independence: End Corporate Welfare." It was signed by 61 top Silicon Valley executives, including me. In calling for government to end corporate pork-barrel politics, we were taking a moral stand.The first Americans hated taxes; the Constitution limited government and, originally, banned levies on personal income. For the first two centuries of our nation, the common man became better off more quickly than any other time in history. Per capita U.S. gross domestic product grew to $28,540 in 1996 from just $919 (in 1996 dollars) in 1776. Mankind took 30,000 years to get to $919, but only 220 more years to reach $28,540. But today the American Dream is being eroded. Since 1976 annual GDP growth per capita (expressed as a 20-year rolling average) has steadily declined, to 1.5% from 2.5%. Why? In part because federal, state and local taxes now consume a whopping 35% of our national output. Current peacetime spending is higher than the 29% peak during World War I; the all-time record was 49% during World War II.American companies should lead in the reduction of destructive government spending. Eliminating corporate welfare is a moral imperative: We should not be asking senior citizens and the poor to tighten their belts while our government is, actually subsidizes the sale of American chardonnay to the French.Taxing and spending to support U.S. industry creates a vicious circle. With corporate taxes high, companies lobby for give-backs to remain competitive. Congress faces extreme pressure to "bring home the pork" to home-state corporations. That requires even higher taxes -- and the circle continues.Corporate subsidies are often known by euphemisms such as "government investments" or "government-industry partnerships." Such Washington-speak notwithstanding, Americans are compelled to pay for silly programs like the proposal by the Commerce Department's Advanced Technology Program to genetically re-engineer cotton, making its fibers more like polyester. Technology subsidies to corporations are sold using technobabble to camouflage unjustifiable investments, which typically fall into four categories:</TEXT>
+</UNIT_ID>]]></TEXT>
+<TAGS>
+<EVENT id="E0" spans="73~77" text="Care"  />
+<EVENT id="E1" spans="332~339" text="nothing"  />
+<EVENT id="E2" spans="362~370" text="assemble"  />
+<EVENT id="E3" spans="385~389" text="mail"  />
+<EVENT id="E4" spans="464~474" text="quadrupled"  />
+<EVENT id="E5" spans="485~487" text="up"  />
+<EVENT id="E6" spans="508~515" text="doubled"  />
+<EVENT id="E7" spans="567~571" text="rise"  />
+<EVENT id="E8" spans="585~587" text="up"  />
+<EVENT id="E9" spans="618~624" text="sagged"  />
+<EVENT id="E10" spans="685~691" text="losing"  />
+<EVENT id="E11" spans="727~733" text="closed"  />
+<EVENT id="E12" spans="768~776" text="explains"  />
+<EVENT id="E13" spans="807~814" text="success"  />
+<EVENT id="E14" spans="902~908" text="firing"  />
+<EVENT id="E15" spans="956~962" text="growth"  />
+<EVENT id="E16" spans="996~1001" text="sales"  />
+<EVENT id="E17" spans="1040~1048" text="skipping"  />
+<EVENT id="E18" spans="1062~1069" text="selling"  />
+<EVENT id="E19" spans="1082~1090" text="building"  />
+<EVENT id="E20" spans="1119~1126" text="ordered"  />
+<EVENT id="E21" spans="1134~1140" text="become"  />
+<EVENT id="E22" spans="1282~1288" text="debate"  />
+<EVENT id="E23" spans="1338~1342" text="post"  />
+<EVENT id="E24" spans="1422~1434" text="conversation"  />
+<EVENT id="E25" spans="1451~1457" text="offers"  />
+<EVENT id="E26" spans="1585~1593" text="approach"  />
+<EVENT id="E27" spans="1668~1675" text="pitched"  />
+<EVENT id="E28" spans="1802~1810" text="proposed"  />
+<EVENT id="E29" spans="1879~1882" text="own"  />
+<EVENT id="E30" spans="1940~1946" text="pegged"  />
+<EVENT id="E31" spans="2117~2121" text="lags"  />
+<EVENT id="E32" spans="2220~2224" text="said"  />
+<EVENT id="E33" spans="2259~2267" text="compares"  />
+<EVENT id="E34" spans="2300~2306" text="bought"  />
+<EVENT id="E35" spans="2513~2522" text="surpassed"  />
+<EVENT id="E36" spans="2699~2706" text="equaled"  />
+<EVENT id="E37" spans="2739~2747" text="outpaced"  />
+<EVENT id="E38" spans="2868~2872" text="fell"  />
+<EVENT id="E39" spans="3064~3076" text="fluctuations"  />
+<EVENT id="E40" spans="3095~3100" text="ended"  />
+<EVENT id="E41" spans="3148~3154" text="closed"  />
+<EVENT id="E42" spans="3197~3202" text="trade"  />
+<EVENT id="E43" spans="3216~3219" text="say"  />
+<EVENT id="E44" spans="3240~3244" text="sold"  />
+<EVENT id="E45" spans="3316~3322" text="forced"  />
+<EVENT id="E46" spans="3369~3378" text="rebounded"  />
+<EVENT id="E47" spans="3495~3499" text="fell"  />
+<EVENT id="E48" spans="3554~3558" text="rose"  />
+<EVENT id="E49" spans="3635~3641" text="impact"  />
+<EVENT id="E50" spans="3658~3662" text="said"  />
+<EVENT id="E51" spans="3737~3743" text="impact"  />
+<EVENT id="E52" spans="3792~3799" text="sizable"  />
+<EVENT id="E53" spans="3852~3857" text="focus"  />
+<EVENT id="E54" spans="4063~4067" text="slid"  />
+<EVENT id="E55" spans="4225~4233" text="appeared"  />
+<EVENT id="E56" spans="4322~4328" text="signed"  />
+<EVENT id="E57" spans="4383~4390" text="calling"  />
+<EVENT id="E58" spans="4409~4412" text="end"  />
+<EVENT id="E59" spans="4462~4473" text="moral stand"  />
+<EVENT id="E60" spans="4494~4499" text="hated"  />
+<EVENT id="E61" spans="4560~4566" text="banned"  />
+<EVENT id="E62" spans="4524~4531" text="limited"  />
+<EVENT id="E63" spans="4659~4669" text="better off"  />
+<EVENT id="E64" spans="4754~4758" text="grew"  />
+<EVENT id="E65" spans="4856~4860" text="$919"  />
+<EVENT id="E66" spans="4889~4894" text="reach"  />
+<EVENT id="E67" spans="4942~4948" text="eroded"  />
+<EVENT id="E68" spans="5044~5052" text="declined"  />
+<EVENT id="E69" spans="5129~5136" text="consume"  />
+<EVENT id="E70" spans="5325~5329" text="lead"  />
+<EVENT id="E71" spans="5337~5346" text="reduction"  />
+<EVENT id="E72" spans="5383~5394" text="Eliminating"  />
+<EVENT id="E73" spans="5453~5459" text="asking"  />
+<EVENT id="E74" spans="5492~5499" text="tighten"  />
+<EVENT id="E75" spans="5546~5556" text="subsidizes"  />
+<EVENT id="E76" spans="5603~5609" text="Taxing"  />
+<EVENT id="E77" spans="5561~5565" text="sale"  />
+<EVENT id="E78" spans="5614~5622" text="spending"  />
+<EVENT id="E79" spans="5648~5655" text="creates"  />
+<EVENT id="E80" spans="5711~5716" text="lobby"  />
+<EVENT id="E81" spans="5764~5769" text="faces"  />
+<EVENT id="E82" spans="5845~5853" text="requires"  />
+<EVENT id="E83" spans="5890~5899" text="continues"  />
+<EVENT id="E84" spans="5930~5935" text="known"  />
+<EVENT id="E85" spans="6075~6084" text="compelled"  />
+<EVENT id="E86" spans="6088~6091" text="pay"  />
+<EVENT id="E87" spans="6201~6212" text="re-engineer"  />
+<EVENT id="E88" spans="6301~6305" text="sold"  />
+<EVENT id="E89" spans="6328~6338" text="camouflage"  />
+<EVENT id="E90" spans="6382~6386" text="fall"  />
+<TIMEX id="T0" spans="155~168" text="the past year"  />
+<TIMEX id="T1" spans="411~429" text="the past 12 months"  />
+<TIMEX id="T2" spans="628~646" text="the past few weeks"  />
+<TIMEX id="T3" spans="710~717" text="Feb. 26"  />
+<TIMEX id="T4" spans="734~740" text="Friday"  />
+<TIMEX id="T5" spans="1386~1389" text="Now"  />
+<TIMEX id="T6" spans="1762~1771" text="right now"  />
+<TIMEX id="T7" spans="2573~2577" text="1988"  />
+<TIMEX id="T8" spans="3159~3177" text="the Easter holiday"  />
+<TIMEX id="T9" spans="3938~3949" text="late Friday"  />
+<TIMEX id="T10" spans="4012~4023" text="late Friday"  />
+<TIMEX id="T11" spans="4096~4107" text="late Friday"  />
+<TIMEX id="T12" spans="4200~4218" text="Earlier this month"  />
+<TIMEX id="T13" spans="4598~4621" text="the first two centuries"  />
+<TIMEX id="T14" spans="4773~4777" text="1996"  />
+<TIMEX id="T15" spans="4797~4801" text="1996"  />
+<TIMEX id="T16" spans="4814~4818" text="1776"  />
+<TIMEX id="T17" spans="4833~4845" text="30,000 years"  />
+<TIMEX id="T18" spans="4871~4885" text="220 more years"  />
+<TIMEX id="T19" spans="4908~4913" text="today"  />
+<TIMEX id="T20" spans="4950~4960" text="Since 1976"  />
+<TIMEX id="T21" spans="5231~5249" text="during World War I"  />
+<TIMEX id="T22" spans="5279~5298" text="during World War II"  />
+<TLINK id="TL0" toID="E2" toText="assemble" fromID="E1" fromText="nothing" overlap="overlap" />
+<TLINK id="TL1" fromID="E2" fromText="assemble" toID="E3" toText="mail" overlap="overlap" />
+<TLINK id="TL2" fromID="T1" fromText="the past 12 months" toID="E4" toText="quadrupled" overlap="overlap" />
+<TLINK id="TL3" fromID="E5" fromText="up" toID="E6" toText="doubled" overlap="overlap" />
+<TLINK id="TL4" fromID="E7" fromText="rise" toID="E8" toText="up" after="after" />
+<TLINK id="TL5" fromID="E9" fromText="sagged" toID="T2" toText="the past few weeks" overlap="overlap" />
+<TLINK id="TL6" fromID="T2" fromText="the past few weeks" toID="E10" toText="losing" overlap="overlap" />
+<TLINK id="TL7" fromID="E10" fromText="losing" toID="T3" toText="Feb. 26" before="before" />
+<TLINK id="TL8" fromID="E11" fromText="closed" toID="T4" toText="Friday" overlap="overlap" />
+<TLINK id="TL9" fromID="E14" fromText="firing" toID="E15" toText="growth" overlap="overlap" />
+<TLINK id="TL10" fromID="E17" fromText="skipping" toID="E18" toText="selling" overlap="overlap" />
+<TLINK id="TL11" fromID="T5" fromText="Now" toID="E24" toText="conversation" overlap="overlap" />
+<TLINK id="TL12" fromID="E27" fromText="pitched" toID="T6" toText="right now" overlap="overlap" />
+<TLINK id="TL13" fromID="E35" fromText="surpassed" toID="T7" toText="1988" overlap="overlap" />
+<TLINK id="TL14" fromID="E39" fromText="fluctuations" toID="E40" toText="ended" after="after" />
+<TLINK id="TL15" fromID="E41" fromText="closed" toID="T8" toText="the Easter holiday" overlap="overlap" />
+<TLINK id="TL16" fromID="E43" fromText="say" toID="E44" toText="sold" before="before" />
+<TLINK id="TL17" fromID="E47" fromText="fell" toID="E48" toText="rose" overlap="overlap" />
+<TLINK id="TL18" fromID="E52" fromText="sizable" toID="E53" toText="focus" overlap="overlap" />
+<TLINK id="TL19" fromID="E54" fromText="slid" toID="T11" toText="late Friday" overlap="overlap" />
+<TLINK id="TL20" fromID="T12" fromText="Earlier this month" toID="E55" toText="appeared" overlap="overlap" />
+<TLINK id="TL21" fromID="E57" fromText="calling" toID="E58" toText="end" unrealized="unrealized" />
+<TLINK id="TL22" fromID="T13" fromText="the first two centuries" toID="E63" toText="better off" overlap="overlap" />
+<TLINK id="TL23" fromID="E64" fromText="grew" toID="T14" toText="1996" overlap="overlap" />
+<TLINK id="TL24" fromID="T19" fromText="today" toID="E67" toText="eroded" overlap="overlap" />
+<TLINK id="TL25" fromID="T20" fromText="Since 1976" toID="E68" toText="declined" overlap="overlap" />
+<TLINK id="TL26" fromID="E75" fromText="subsidizes" toID="E77" toText="sale" overlap="overlap" />
+<TLINK id="TL27" fromID="E76" fromText="Taxing" toID="E78" toText="spending" overlap="overlap" />
+<TLINK id="TL28" fromID="E80" fromText="lobby" toID="E81" toText="faces" overlap="overlap" />
+<TLINK id="TL29" fromID="E88" fromText="sold" toID="E89" toText="camouflage" unrealized="unrealized" />
+</TAGS>
+</TemporalAnnotationEcon>
