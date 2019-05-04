@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalAnnotationEcon>
+<TEXT><![CDATA[<UNIT_ID="842615058">
+    <ARTICLE_DATE>8/30/07</ARTICLE_DATE>
+    <TEXT>WASHINGTON -- When Ben Bernanke was nominated to head the Federal Reserve in 2005, he promised to "maintain continuity with the policies and policy strategies established during the Greenspan years." But in handling his first financial crisis, Mr. Bernanke shows signs of a break with Alan Greenspan, the Fed's chairman from 1987 to 2006.That shift is important in understanding why Mr. Bernanke hasn't cut the Fed's main interest rate yet, and it could alter investors' expectations of how the Bernanke Fed will function.The Fed historically has had two major economic duties. Maintaining financial stability is one. Controlling inflation while preventing recession is the other.To Mr. Greenspan, market confidence and the economy's growth prospects were so intertwined as to make the Fed's two duties almost inseparable. He cut rates after the 1987 stock-market crash and the near-collapse of hedge fund Long-Term Capital Management in 1998 to prevent investor reluctance to take risks from undermining the nation's economic growth.By contrast, Mr. Bernanke distinguishes between the central bank's two functions. So, on Aug. 17, the Fed cut the interest rate and lengthened the term on loans to banks from its little-used discount window in hopes banks would use the window -- or at least the knowledge it was available -- to lend to solid borrowers having trouble getting credit amidst the market turmoil. The action was aimed at restoring the normal functioning of disrupted credit markets, not primarily at boosting growth.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615138">
+    <ARTICLE_DATE>7/26/11</ARTICLE_DATE>
+    <TEXT>QUEENSJFK Terminal Is EvacuatedAfter Abandoned-Bag ScareAirport authorities shut down a terminal at John F. Kennedy International Airport for about 80 minutes on Monday morning after a police dog indicated that a bag found abandoned in an airport lounge may have contained a bomb.The soft briefcase-like bag, however, turned out to contain papers.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615219">
+    <ARTICLE_DATE>10/25/14</ARTICLE_DATE>
+    <TEXT>The Rev. Al Sharpton once epitomized New York's bad old days of the 1980s, when the then-corpulent, gold-medallion-bedecked tub thumper inflamed racial hatred and courted violence. Today, against all expectations and at least 100 pounds lighter, he has been rehabilitated into the Democratic Party's civil-rights leader of choice. Has Mr. Sharpton changed or simply outlasted his critics?President Obama's embrace of Mr. Sharpton has been particularly intense this year. On Monday he called Mr. Sharpton's radio show to discuss the Nov. 4 elections. In April the president appeared at a political rally organized by Mr. Sharpton's National Action Network. Mr. Obama's closest adviser, Valerie Jarrett, conferred with Mr. Sharpton in August about the police killing of an unarmed black teenager in Ferguson, Mo., as Mr. Sharpton led protests against the Ferguson police.The Democratic establishment is just as obsequious. It turned out in force earlier this month to celebrate Mr. Sharpton's 60th birthday party at New York's tony Four Seasons restaurant. Hillary Clinton phoned in with best wishes. Barack and Michelle Obama sent a congratulatory letter. New York Gov. Andrew Cuomo gushed: "He's the nation's Rev. Sharpton -- and the nation is better for it." New York Attorney General Eric Schneiderman, Sen. Kirsten Gillibrand, and Reps. Charles Rangel and Jerry Nadler rushed to pay their respects.Worrying as it might be for America to see Mr. Sharpton catapulted into the national limelight, that is nothing compared with the alarm felt by many New Yorkers now witnessing his emergence as a political power in their city.When New Yorkers elected Bill de Blasio as mayor last year, they knew they were getting a self-styled "progressive" who pledged to soak the rich and shackle the New York Police Department. What they didn't know was that they were also voting to bring Al Sharpton and his influence into the very heart of City Hall. The mayor's alliance with the racial provocateur is now creating the biggest crisis of his mayoralty.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615299">
+    <ARTICLE_DATE>1/6/86</ARTICLE_DATE>
+    <TEXT>NEW YORK -- The economy continued to grow in December, but at a slower pace, a monthly survey by purchasing agents indicated.The National Association of Purchasing Management said its members reported a decline in new orders, production and employment in December. For the 13th consecutive month, prices continued to fall."Traditionally the industrial economy slows in December, so what we are seeing isn't unusual," said Robert J. Bretz, chairman of the group's business survey committee and purchasing director at Pitney Bowes Inc. "However, the fourth quarter and the year were a pleasant surprise. The continued low level of price increases also indicates inflation isn't on the horizon."The report, based on a survey of purchasing managers at 250 industrial companies, indicates whether various indicators of the economy are better, the same, or worse than the previous month.The survey's composite index, on a seasonally adjusted basis, declined to 51.1% in December from 53.3% in November, the first drop in three months. But it was the fourth consecutive measure above 50%, a sign that the economy is expanding. A reading below 50% indicates the economy is in a declining phase.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615379">
+    <ARTICLE_DATE>8/19/94</ARTICLE_DATE>
+    <TEXT>NEW YORK -- Volatility ahead of today's options expirations, profit-taking in the technology sector and a slumping bond market led to a modest pullback for small-company stocks.Prices swung in a narrow range between positive and negativeterritory as investors geared up for the "double witching" sessiontoday."There's some skittishness as a result of tomorrow ," Leslie Seff, head of Nasdaq trading at Wagner Stott & Co., said yesterday. "I've seen profit-taking, and I've also seen some aggressive selling."</TEXT>
+</UNIT_ID>]]></TEXT>
+<TAGS>
+<EVENT id="E0" spans="159~167" text="promised"  />
+<EVENT id="E1" spans="330~335" text="shows"  />
+<EVENT id="E2" spans="438~451" text="understanding"  />
+<EVENT id="E3" spans="527~532" text="alter"  />
+<EVENT id="E4" spans="643~649" text="duties"  />
+<EVENT id="E5" spans="686~689" text="one"  />
+<EVENT id="E6" spans="832~843" text="intertwined"  />
+<EVENT id="E7" spans="899~902" text="cut"  />
+<EVENT id="E8" spans="1133~1146" text="distinguishes"  />
+<EVENT id="E9" spans="1213~1216" text="cut"  />
+<EVENT id="E10" spans="1239~1249" text="lengthened"  />
+<EVENT id="E11" spans="1335~1338" text="use"  />
+<EVENT id="E12" spans="1402~1406" text="lend"  />
+<EVENT id="E13" spans="1498~1503" text="aimed"  />
+<EVENT id="E14" spans="1586~1594" text="boosting"  />
+<EVENT id="E15" spans="1716~1725" text="Evacuated"  />
+<EVENT id="E16" spans="1745~1750" text="Scare"  />
+<EVENT id="E17" spans="1770~1774" text="shut"  />
+<EVENT id="E18" spans="1890~1899" text="indicated"  />
+<EVENT id="E19" spans="2026~2033" text="contain"  />
+<EVENT id="E20" spans="2160~2170" text="epitomized"  />
+<EVENT id="E21" spans="2270~2278" text="inflamed"  />
+<EVENT id="E22" spans="2297~2304" text="courted"  />
+<EVENT id="E23" spans="2392~2405" text="rehabilitated"  />
+<EVENT id="E24" spans="2482~2489" text="changed"  />
+<EVENT id="E25" spans="2500~2509" text="outlasted"  />
+<EVENT id="E26" spans="2540~2547" text="embrace"  />
+<EVENT id="E27" spans="2618~2624" text="called"  />
+<EVENT id="E28" spans="2654~2661" text="discuss"  />
+<EVENT id="E29" spans="2707~2715" text="appeared"  />
+<EVENT id="E30" spans="2836~2845" text="conferred"  />
+<EVENT id="E31" spans="2962~2965" text="led"  />
+<EVENT id="E32" spans="3043~3053" text="obsequious"  />
+<EVENT id="E33" spans="3058~3064" text="turned"  />
+<EVENT id="E34" spans="3100~3109" text="celebrate"  />
+<EVENT id="E35" spans="3205~3211" text="phoned"  />
+<EVENT id="E36" spans="3259~3263" text="sent"  />
+<EVENT id="E37" spans="3316~3322" text="gushed"  />
+<EVENT id="E38" spans="3343~3356" text="Rev. Sharpton"  />
+<EVENT id="E39" spans="3378~3384" text="better"  />
+<EVENT id="E40" spans="3506~3512" text="rushed"  />
+<EVENT id="E41" spans="3574~3577" text="see"  />
+<EVENT id="E42" spans="3591~3601" text="catapulted"  />
+<EVENT id="E43" spans="3671~3675" text="felt"  />
+<EVENT id="E44" spans="3700~3710" text="witnessing"  />
+<EVENT id="E45" spans="3777~3784" text="elected"  />
+<EVENT id="E46" spans="3825~3829" text="knew"  />
+<EVENT id="E47" spans="3880~3887" text="pledged"  />
+<EVENT id="E48" spans="3995~4001" text="voting"  />
+<EVENT id="E49" spans="4131~4139" text="creating"  />
+<EVENT id="E50" spans="4304~4308" text="grow"  />
+<EVENT id="E51" spans="4382~4391" text="indicated"  />
+<EVENT id="E52" spans="4459~4467" text="reported"  />
+<EVENT id="E53" spans="4584~4588" text="fall"  />
+<EVENT id="E54" spans="4627~4632" text="slows"  />
+<EVENT id="E55" spans="4684~4688" text="said"  />
+<EVENT id="E56" spans="4859~4867" text="surprise"  />
+<EVENT id="E57" spans="4917~4926" text="indicates"  />
+<EVENT id="E58" spans="5041~5050" text="indicates"  />
+<EVENT id="E59" spans="5210~5218" text="declined"  />
+<EVENT id="E60" spans="5274~5278" text="drop"  />
+<EVENT id="E61" spans="5407~5416" text="indicates"  />
+<EVENT id="E62" spans="5672~5675" text="led"  />
+<EVENT id="E63" spans="5729~5734" text="swung"  />
+<EVENT id="E64" spans="5967~5971" text="said"  />
+<EVENT id="E65" spans="5989~5993" text="seen"  />
+<EVENT id="E66" spans="6023~6027" text="seen"  />
+<TIMEX id="T0" spans="150~154" text="2005"  />
+<TIMEX id="T1" spans="398~402" text="1987"  />
+<TIMEX id="T2" spans="406~410" text="2006"  />
+<TIMEX id="T3" spans="1011~1015" text="1998"  />
+<TIMEX id="T4" spans="919~923" text="1987"  />
+<TIMEX id="T5" spans="1196~1203" text="Aug. 17"  />
+<TIMEX id="T6" spans="1836~1852" text="about 80 minutes"  />
+<TIMEX id="T7" spans="1856~1870" text="Monday morning"  />
+<TIMEX id="T8" spans="2198~2207" text="the 1980s"  />
+<TIMEX id="T9" spans="2315~2320" text="Today"  />
+<TIMEX id="T10" spans="2594~2603" text="this year"  />
+<TIMEX id="T11" spans="2605~2614" text="On Monday"  />
+<TIMEX id="T12" spans="2666~2672" text="Nov. 4"  />
+<TIMEX id="T13" spans="2684~2692" text="In April"  />
+<TIMEX id="T14" spans="2864~2873" text="in August"  />
+<TIMEX id="T15" spans="3078~3096" text="earlier this month"  />
+<TIMEX id="T16" spans="3696~3699" text="now"  />
+<TIMEX id="T17" spans="3809~3818" text="last year"  />
+<TIMEX id="T18" spans="4127~4130" text="now"  />
+<TIMEX id="T19" spans="4309~4320" text="in December"  />
+<TIMEX id="T20" spans="4519~4530" text="in December"  />
+<TIMEX id="T21" spans="4537~4562" text="he 13th consecutive month"  />
+<TIMEX id="T22" spans="4633~4644" text="in December"  />
+<TIMEX id="T23" spans="4834~4842" text="the year"  />
+<TIMEX id="T24" spans="4811~4829" text="the fourth quarter"  />
+<TIMEX id="T25" spans="5129~5147" text="the previous month"  />
+<TIMEX id="T26" spans="5231~5239" text="December"  />
+<TIMEX id="T27" spans="5254~5262" text="November"  />
+<TIMEX id="T28" spans="5279~5294" text="in three months"  />
+<TIMEX id="T29" spans="5577~5584" text="today&apos;s"  />
+<TIMEX id="T30" spans="5848~5853" text="today"  />
+<TIMEX id="T31" spans="5972~5981" text="yesterday"  />
+<TLINK id="TL0" fromID="T0" fromText="2005" toID="E0" toText="promised" overlap="overlap" />
+<TLINK id="TL1" fromID="E0" fromText="promised" toID="E1" toText="shows" after="after" />
+<TLINK id="TL2" fromID="T1" fromText="1987" toID="T2" toText="2006" after="after" />
+<TLINK id="TL3" fromID="E7" fromText="cut" toID="T4" toText="1987" before="before" />
+<TLINK id="TL4" fromID="T4" fromText="1987" toID="T3" toText="1998" after="after" />
+<TLINK id="TL5" fromID="T5" fromText="Aug. 17" toID="E9" toText="cut" overlap="overlap" />
+<TLINK id="TL6" fromID="E15" fromText="Evacuated" toID="E16" toText="Scare" before="before" />
+<TLINK id="TL7" fromID="T6" fromText="about 80 minutes" toID="T7" toText="Monday morning" overlap="overlap" />
+<TLINK id="TL8" fromID="T7" fromText="Monday morning" toID="E18" toText="indicated" before="before" />
+<TLINK id="TL9" fromID="E21" fromText="inflamed" toID="E22" toText="courted" overlap="overlap" />
+<TLINK id="TL10" fromID="T9" fromText="Today" toID="E23" toText="rehabilitated" before="before" />
+<TLINK id="TL11" fromID="E26" fromText="embrace" toID="T10" toText="this year" overlap="overlap" />
+<TLINK id="TL12" fromID="T11" fromText="On Monday" toID="E27" toText="called" />
+<TLINK id="TL13" fromID="E27" fromText="called" toID="E28" toText="discuss" overlap="overlap" />
+<TLINK id="TL14" fromID="T13" fromText="In April" toID="E29" toText="appeared" overlap="overlap" />
+<TLINK id="TL15" fromID="E30" fromText="conferred" toID="T14" toText="in August" overlap="overlap" />
+<TLINK id="TL16" fromID="T14" fromText="in August" toID="E31" toText="led" overlap="overlap" />
+<TLINK id="TL17" fromID="E33" fromText="turned" toID="T15" toText="earlier this month" overlap="overlap" />
+<TLINK id="TL18" fromID="T15" fromText="earlier this month" toID="E34" toText="celebrate" overlap="overlap" />
+<TLINK id="TL19" fromID="E34" fromText="celebrate" toID="E35" toText="phoned" overlap="overlap" />
+<TLINK id="TL20" fromID="E35" fromText="phoned" toID="E36" toText="sent" overlap="overlap" />
+<TLINK id="TL21" fromID="E41" fromText="see" toID="E42" toText="catapulted" overlap="overlap" />
+<TLINK id="TL22" fromID="E43" fromText="felt" toID="T16" toText="now" overlap="overlap" />
+<TLINK id="TL23" fromID="T16" fromText="now" toID="E44" toText="witnessing" overlap="overlap" />
+<TLINK id="TL24" fromID="E45" fromText="elected" toID="T17" toText="last year" overlap="overlap" />
+<TLINK id="TL25" fromID="T17" fromText="last year" toID="E46" toText="knew" overlap="overlap" />
+<TLINK id="TL26" fromID="T18" fromText="now" toID="E49" toText="creating" overlap="overlap" />
+<TLINK id="TL27" fromID="E50" fromText="grow" toID="T19" toText="in December" overlap="overlap" />
+<TLINK id="TL28" fromID="T21" fromText="he 13th consecutive month" toID="E53" toText="fall" overlap="overlap" />
+<TLINK id="TL29" fromID="E54" fromText="slows" toID="T22" toText="in December" overlap="overlap" />
+<TLINK id="TL30" fromID="E59" fromText="declined" toID="T26" toText="December" overlap="overlao" />
+<TLINK id="TL31" fromID="T26" fromText="December" toID="T27" toText="November" before="before" />
+<TLINK id="TL32" fromID="E60" fromText="drop" toID="T28" toText="in three months" before="before" />
+<TLINK id="TL33" fromID="E63" fromText="swung" toID="T30" toText="today" after="after" />
+<TLINK id="TL34" fromID="E64" fromText="said" toID="T31" toText="yesterday" overlap="overlap" />
+</TAGS>
+</TemporalAnnotationEcon>
