@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalAnnotationEcon>
+<TEXT><![CDATA[<UNIT_ID="842615459">
+    <ARTICLE_DATE>10/3/84</ARTICLE_DATE>
+    <TEXT>WASHINGTON -- Sales of new single-family homes fell 8.1% in August to a seasonally adjusted annual rate of 569,000, the lowest pace in a year. Analysts predicted they could drop further in coming months.The August decline followed a revised 2.2% decrease in July to a seasonally adjusted annual rate of 619,000, the Commerce Department reported. The department originally had said sales of new single-family homes were unchanged in July.The decrease is "in line with expectations for what I think is a moderate decline in construction and new and existing home sales," said Mark Riedy, executive vice president of the Mortgage Bankers Association of America. "I think we're near the bottom of the decline."While Mr. Riedy and several other economists expect new-home sales to drop modestly through year-end, they disagree about next year's outlook because of uncertainty about the mortgage interest-rate picture. New-home sales should total about 665,000 for all 1984, up from 623,000 last year, Mr. Riedy forecast, saying that next year they "may be a little higher" or the same.Future new home-sales activity depends on interest rates, and "I don't see much promise of them falling enough" to spark a resurgence of demand, said James Christian, chief economist of the U.S. League of Savings Institutions. Similarly, Michael Carliner, a senior economist at Chase Econometrics, sees new-home sales dropping to a rate of 590,000 next year from his projected 625,000-unit rate this year, saying there will be "a small surge" in mortgage rates in 1985.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615539">
+    <ARTICLE_DATE>10/9/08</ARTICLE_DATE>
+    <TEXT>WASHINGTON -- The outlook for the global economy has darkened considerably, with the spreading financial crisis expected to push several advanced economies into recession, the International Monetary Fund said."The world economy is now entering a major downturn in the face of the most dangerous shock in mature financial markets since the 1930s," the IMF said Wednesday in its World Economic Outlook.Just a few months after upgrading its global forecasts, the IMF is now ratcheting down its expectations for the economy this year and into 2009.The world economy is now expected to expand at a 3.9% pace in 2008, down from the estimate of 4.1% in July. The 2009 forecast was slashed from 3.9% to 3%, which would be the weakest level since 2002 and near the threshold of what the IMF considers a global recession.While the IMF still expects a recovery to begin late next year, it warned there are "considerable downside risks" to that scenario, which assumes U.S. and European governments will succeed in their efforts to stabilize markets.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615620">
+    <ARTICLE_DATE>3/21/08</ARTICLE_DATE>
+    <TEXT>Short-selling activity soared at the New York Stock Exchange in the first half of March.For the twice-monthly reporting period ended March 14, the number of short-selling positions not yet closed out at the Big Board -- so- called short interest -- jumped 7.04% to 16,009,687,994 shares, from 14,956,961,052 shares in late February.Marketwide, the short ratio, or number of days' average volume represented by short positions outstanding at the exchange, fell to 3.5 from four at the end of last period, as volume soared. The figures are based on trading in NYSE-listed names across all exchanges.Investors who "short" shares borrow and sell them, betting the price will fall and they will be able to buy the shares later at a lower price for return to the lender. In general, the higher the short interest, the more investors expect a downturn. Downdrafts tend to boost the value of short positions and embolden bearish investors.Recent volatility in the stock market, in particular among bank and financial shares, has benefited short sellers who placed well-timed bets on the right companies, said Harry Strunk, a principal at Treflie Capital Management in New York. Mr. Strunk surveys a group of short- only managers on a monthly basis; the value of the average short- selling portfolio gained 12.5% in the first two months of 2008, compared with 18.4% for the first three months of 2001, according to Treflie data.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615700">
+    <ARTICLE_DATE>10/13/10</ARTICLE_DATE>
+    <TEXT>Author: Darrell A. HughesWASHINGTON--Treasury Secretary Timothy Geithner said the U.S. wants to make sure the yuan appreciates "at a gradual but still significant rate."Mr. Geithner, according to a transcript of an interview on the Charlie Rose talk show, noted that China allowed its currency to rise by a significant amount--about 2.5%--over the previous six weeks.But U.S. officials would prefer for China to continue to let the value of its currency rise to reflect market forces, Mr. Geithner said."What we want to do is to maximize the incentives they have to let that process go as far as it needs to go," Mr. Geithner said. "I'm very confident over time that this is going to happen," he added.</TEXT>
+</UNIT_ID>
+<UNIT_ID="842615780">
+    <ARTICLE_DATE>4/26/05</ARTICLE_DATE>
+    <TEXT>[Today's Market Forecast]Home BoundThe scariest phrase in investing? "It's different this time." Scarier still is when people start acting on that conceit.This appears to be happening in hot housing markets, where many buyers are justifying heavy debt loads with the belief that the rising price will bail them out if they can't keep up with payments."Their attitude is: Get me into that house before the price goes up any more," says Lehman Brothers economist Ethan Harris. "Get me into that rapidly appreciating asset and if I have to, I'll sell it and make a lot of money off of it."</TEXT>
+</UNIT_ID>]]></TEXT>
+<TAGS>
+<EVENT id="E0" spans="120~124" text="fell"  />
+<EVENT id="E1" spans="225~234" text="predicted"  />
+<EVENT id="E2" spans="295~303" text="followed"  />
+<EVENT id="E3" spans="492~501" text="unchanged"  />
+<EVENT id="E4" spans="642~646" text="said"  />
+<EVENT id="E5" spans="530~534" text="line"  />
+<EVENT id="E6" spans="747~751" text="near"  />
+<EVENT id="E7" spans="824~830" text="expect"  />
+<EVENT id="E8" spans="886~894" text="disagree"  />
+<EVENT id="E9" spans="1008~1013" text="total"  />
+<EVENT id="E10" spans="1089~1095" text="saying"  />
+<EVENT id="E11" spans="1184~1191" text="depends"  />
+<EVENT id="E12" spans="1224~1227" text="see"  />
+<EVENT id="E13" spans="1298~1302" text="said"  />
+<EVENT id="E14" spans="1471~1479" text="dropping"  />
+<EVENT id="E15" spans="1589~1594" text="surge"  />
+<EVENT id="E16" spans="1767~1775" text="darkened"  />
+<EVENT id="E17" spans="1838~1842" text="push"  />
+<EVENT id="E18" spans="1918~1922" text="said"  />
+<EVENT id="E19" spans="1949~1957" text="entering"  />
+<EVENT id="E20" spans="2074~2083" text="Wednesday"  />
+<EVENT id="E21" spans="2069~2073" text="said"  />
+<EVENT id="E22" spans="2138~2147" text="upgrading"  />
+<EVENT id="E23" spans="2185~2195" text="ratcheting"  />
+<EVENT id="E24" spans="2295~2301" text="expand"  />
+<EVENT id="E25" spans="2326~2330" text="down"  />
+<EVENT id="E26" spans="2388~2395" text="slashed"  />
+<EVENT id="E27" spans="2440~2445" text="level"  />
+<EVENT id="E28" spans="2496~2505" text="considers"  />
+<EVENT id="E29" spans="2545~2552" text="expects"  />
+<EVENT id="E30" spans="2632~2637" text="risks"  />
+<EVENT id="E31" spans="2663~2670" text="assumes"  />
+<EVENT id="E32" spans="2706~2713" text="succeed"  />
+<EVENT id="E33" spans="2867~2873" text="soared"  />
+<EVENT id="E34" spans="2971~2976" text="ended"  />
+<EVENT id="E35" spans="3033~3039" text="closed"  />
+<EVENT id="E36" spans="3093~3099" text="jumped"  />
+<EVENT id="E37" spans="3299~3303" text="fell"  />
+<EVENT id="E38" spans="3382~3387" text="based"  />
+<EVENT id="E39" spans="3456~3461" text="short"  />
+<EVENT id="E40" spans="3671~3677" text="expect"  />
+<EVENT id="E41" spans="3709~3714" text="boost"  />
+<EVENT id="E42" spans="3748~3756" text="embolden"  />
+<EVENT id="E43" spans="3865~3874" text="benefited"  />
+<EVENT id="E44" spans="3940~3944" text="said"  />
+<EVENT id="E45" spans="4025~4032" text="surveys"  />
+<EVENT id="E46" spans="4135~4141" text="gained"  />
+<EVENT id="E47" spans="4429~4433" text="said"  />
+<EVENT id="E48" spans="4471~4482" text="appreciates"  />
+<EVENT id="E49" spans="4612~4617" text="noted"  />
+<EVENT id="E50" spans="4748~4754" text="prefer"  />
+<EVENT id="E51" spans="4854~4858" text="said"  />
+<EVENT id="E52" spans="4885~4893" text="maximize"  />
+<EVENT id="E53" spans="4982~4986" text="said"  />
+<EVENT id="E54" spans="5040~5046" text="happen"  />
+<EVENT id="E55" spans="5052~5057" text="added"  />
+<EVENT id="E56" spans="5225~5234" text="different"  />
+<EVENT id="E57" spans="5282~5288" text="acting"  />
+<EVENT id="E58" spans="5324~5333" text="happening"  />
+<EVENT id="E59" spans="5380~5390" text="justifying"  />
+<EVENT id="E60" spans="5451~5455" text="bail"  />
+<EVENT id="E61" spans="5580~5584" text="says"  />
+<EVENT id="E62" spans="5626~5629" text="Get"  />
+<EVENT id="E63" spans="5693~5697" text="sell"  />
+<EVENT id="E64" spans="5705~5709" text="make"  />
+<TIMEX id="T0" spans="130~139" text="in August"  />
+<TIMEX id="T1" spans="205~214" text="in a year"  />
+<TIMEX id="T2" spans="259~275" text="in coming months"  />
+<TIMEX id="T3" spans="280~286" text="August"  />
+<TIMEX id="T4" spans="502~509" text="in July"  />
+<TIMEX id="T5" spans="863~879" text="through year-end"  />
+<TIMEX id="T6" spans="901~912" text="next year&apos;s"  />
+<TIMEX id="T7" spans="1032~1040" text="all 1984"  />
+<TIMEX id="T8" spans="1058~1067" text="last year"  />
+<TIMEX id="T9" spans="1101~1110" text="next year"  />
+<TIMEX id="T10" spans="1501~1510" text="next year"  />
+<TIMEX id="T11" spans="1548~1557" text="this year"  />
+<TIMEX id="T12" spans="1614~1621" text="in 1985"  />
+<TIMEX id="T13" spans="2043~2058" text="since the 1930s"  />
+<TIMEX id="T14" spans="1945~1948" text="now"  />
+<TIMEX id="T15" spans="2119~2131" text="a few months"  />
+<TIMEX id="T16" spans="2181~2184" text="now"  />
+<TIMEX id="T17" spans="2234~2243" text="this year"  />
+<TIMEX id="T18" spans="2248~2257" text="into 2009"  />
+<TIMEX id="T19" spans="2317~2324" text="in 2008"  />
+<TIMEX id="T20" spans="2357~2364" text="in July"  />
+<TIMEX id="T21" spans="2370~2374" text="2009"  />
+<TIMEX id="T22" spans="2452~2456" text="2002"  />
+<TIMEX id="T23" spans="2573~2587" text="late next year"  />
+<TIMEX id="T24" spans="2908~2931" text="the first half of March"  />
+<TIMEX id="T25" spans="2977~2985" text="March 14"  />
+<TIMEX id="T26" spans="3159~3175" text="in late February"  />
+<TIMEX id="T27" spans="3324~3346" text="the end of last period"  />
+<TIMEX id="T28" spans="3775~3781" text="Recent"  />
+<TIMEX id="T29" spans="4148~4179" text="in the first two months of 2008"  />
+<TIMEX id="T30" spans="4205~4235" text="the first three months of 2001"  />
+<TIMEX id="T31" spans="4695~4722" text="over the previous six weeks"  />
+<TIMEX id="T32" spans="5151~5158" text="Today&apos;s"  />
+<TLINK id="TL0" fromID="E0" fromText="fell" toID="T0" toText="in August" overlap="overlap" />
+<TLINK id="TL1" fromID="T3" fromText="August" toID="E2" toText="followed" before="before" />
+<TLINK id="TL2" fromID="E3" fromText="unchanged" toID="T4" toText="in July" overlap="overlap" />
+<TLINK id="TL3" fromID="E8" fromText="disagree" toID="T6" toText="next year&apos;s" unrealized="unrealized" />
+<TLINK id="TL4" fromID="T7" fromText="all 1984" toID="T8" toText="last year" before="before" />
+<TLINK id="TL5" fromID="E10" fromText="saying" toID="T9" toText="next year" unrealized="unrealized" />
+<TLINK id="TL6" fromID="T10" fromText="next year" toID="T11" toText="this year" before="before" />
+<TLINK id="TL7" fromID="T14" fromText="now" toID="E19" toText="entering" overlap="overlap" />
+<TLINK id="TL8" fromID="E19" fromText="entering" toID="T13" toText="since the 1930s" before="before" />
+<TLINK id="TL9" fromID="E21" fromText="said" toID="E20" toText="Wednesday" overlap="overlap" />
+<TLINK id="TL10" fromID="T15" fromText="a few months" toID="E22" toText="upgrading" before="before" />
+<TLINK id="TL11" fromID="T16" fromText="now" toID="E23" toText="ratcheting" overlap="overlap" />
+<TLINK id="TL12" fromID="E23" fromText="ratcheting" toID="T17" toText="this year" overlap="overlap" />
+<TLINK id="TL13" fromID="T17" fromText="this year" toID="T18" toText="into 2009" unrealized="unrealized" />
+<TLINK id="TL14" fromID="E24" fromText="expand" toID="T19" toText="in 2008" overlap="overlap" />
+<TLINK id="TL15" fromID="E25" fromText="down" toID="T20" toText="in July" overlap="overlap" />
+<TLINK id="TL16" fromID="E27" fromText="level" toID="T22" toText="2002" before="before" />
+<TLINK id="TL17" fromID="E29" fromText="expects" toID="T23" toText="late next year" unrealized="unrealized" />
+<TLINK id="TL18" fromID="E31" fromText="assumes" toID="E32" toText="succeed" unrealized="unrealized" />
+<TLINK id="TL19" fromID="E33" fromText="soared" toID="T24" toText="the first half of March" overlap="overlap" />
+<TLINK id="TL20" fromID="E34" fromText="ended" toID="T25" toText="March 14" overlap="overlap" />
+<TLINK id="TL21" fromID="E36" fromText="jumped" toID="T26" toText="in late February" overlap="overlap" />
+<TLINK id="TL22" fromID="E37" fromText="fell" toID="T27" toText="the end of last period" overlap="overlap" />
+<TLINK id="TL23" fromID="T28" fromText="Recent" toID="E43" toText="benefited" after="after" />
+<TLINK id="TL24" fromID="E46" fromText="gained" toID="T29" toText="in the first two months of 2008" />
+<TLINK id="TL25" fromID="T29" fromText="in the first two months of 2008" toID="T30" toText="the first three months of 2001" before="before" />
+<TLINK id="TL26" fromID="E47" fromText="said" toID="E48" toText="appreciates" overlap="overlap" />
+<TLINK id="TL27" fromID="E58" fromText="happening" toID="E59" toText="justifying" overlap="overlap" />
+<TLINK id="TL28" fromID="E59" fromText="justifying" toID="E60" toText="bail" unrealized="unrealized" />
+<TLINK id="TL29" fromID="E63" fromText="sell" toID="E64" toText="make" overlap="overlap" />
+</TAGS>
+</TemporalAnnotationEcon>
