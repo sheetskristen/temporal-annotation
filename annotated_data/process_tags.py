@@ -50,8 +50,6 @@ for fn in os.listdir('.'):
             for attr in tag.attrib:
                 if attr in ("overlap", "after", "unrealized", "before"):
                     break
-            else:
-                attr = "unspecified"
             tlinks.append((*id_dict[from_id], *id_dict[to_id], attr))
         except:
             pass
