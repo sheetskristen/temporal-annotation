@@ -3,24 +3,17 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 from sklearn.feature_extraction import DictVectorizer
 from operator import itemgetter
-from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 import pandas as pd
 import numpy as np
 import os, re
 
 
-def stem_tokens(stemmer, text):
-    #text = re.sub(r'\d+', '', text)
-    #text = re.sub(r'[^A-Za-z]+', ' ', text)
-    return [stemmer.stem(token) for token in word_tokenize(text)]
-
-
-def extract_feat_vocab(csv_file, stemmer):
+def extract_feat_vocab(csv_file):
     data_frame = pd.read_csv(csv_file, encoding='latin1', error_bad_lines=False)
     feat_vocab = dict()
     for index,row in data_frame[data_frame['type'] == 'silver'].iterrows():
-        for token in stem_tokens(stemmer, row['event_timex']):
+        for token in word_tokenize(row['event_timex']):
             feat_vocab[token] = feat_vocab.get(token,0) + 1
     return feat_vocab
 
@@ -31,7 +24,7 @@ def select_features(feat_vocab, most_freq=100, least_freq=5000):
     return set(feat_dict.keys())
 
 
-def featurize(csv_file, feat_vocab, stemmer):
+def featurize(csv_file, feat_vocab):
     cols = ['_type_', '_label_']
     cols.extend(list(feat_vocab))
     data_frame = pd.read_csv(csv_file, encoding='latin1', error_bad_lines=False)
@@ -42,10 +35,11 @@ def featurize(csv_file, feat_vocab, stemmer):
     for index, row in data_frame.iterrows():
         feat_data_frame.loc[index, '_type_'] = row['type']
         feat_data_frame.loc[index, '_label_'] = row['tlink_label']
-        for token in stem_tokens(stemmer, row['event_timex']):
+        for token in word_tokenize(row['event_timex']):
             if token in feat_vocab:
                 feat_data_frame.loc[index, token] += 1
     return feat_data_frame
+
 
 def vectorize(feature_csv, split="silver"):
     df = pd.read_csv(feature_csv, encoding='latin1', error_bad_lines=False)
@@ -92,13 +86,12 @@ def classify(feat_csv):
 if __name__ == '__main__':
     f_all_path = "features_all.csv"
     # select_rows(csv_path,hw1_path)
-    ps = PorterStemmer()
-    feat_vocab = extract_feat_vocab(f_all_path, ps)
+    feat_vocab = extract_feat_vocab(f_all_path)
     print(len(feat_vocab))
     # print(feat_vocab)
     selected_feat_vocab = select_features(feat_vocab, 100, 1000)
     print(len(selected_feat_vocab))
-    feat_data_frame = featurize(f_all_path, selected_feat_vocab, ps)
+    feat_data_frame = featurize(f_all_path, selected_feat_vocab)
     featfile = os.path.join(os.path.curdir, "features.csv")
     feat_data_frame.to_csv(featfile, encoding='latin1', index=False)
     classify('features.csv')
