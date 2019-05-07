@@ -8,7 +8,7 @@ re_unitid = re.compile('(<UNIT_ID=")(.*?)(">)')
 
 
 tlinks = []
-f = open("annotated_data/gold.txt", encoding='utf-8')
+f = open("annotated_data/silver.txt", encoding='utf-8')
 for line in f:
     if line.startswith('TLINK'):
         tag = line.strip('\n').split('\t')
@@ -61,7 +61,7 @@ def next2(text, end):
         return x + (2 - len(x)) * ['*end*']
 
 
-with open("features.txt", "w") as fo:
+with open("features_silver.txt", "w") as fo:
     for tag in tlinks:
         uid = tag[2]
         first_start = int(tag[3]) + uid2idx[uid]
