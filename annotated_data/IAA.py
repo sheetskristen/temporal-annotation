@@ -8,7 +8,8 @@ files = ['NEWS-1_1-DD.xml', 'NEWS-1_1-EF.xml', 'NEWS-1_1-LC.xml',
          'NEWS-BATCH-10_1-EF.xml', 'NEWS-BATCH-2_1-EF.xml',
          'NEWS-BATCH-3_1-EF.xml', 'NEWS-BATCH-4_1-EF.xml', 'NEWS-BATCH-4_1-LC.xml',
          'NEWS-BATCH-5_1-EF.xml', 'NEWS-BATCH-5_1-LC.xml', 'NEWS-BATCH-6_1-EF.xml',
-         'NEWS-BATCH-7_1-EF.xml', 'NEWS-BATCH-8_1-EF.xml', 'NEWS-BATCH-9_1-EF.xml']
+         'NEWS-BATCH-7_1-EF.xml', 'NEWS-BATCH-8_1-EF.xml', 'NEWS-BATCH-9_1-EF.xml',
+         ]
 
 news_dict = {f: set() for f in files}
 
@@ -54,6 +55,7 @@ for line in open('all.txt'):
         if lid not in tlinks:
             tlinks[lid] = [0, 0, 0, 0, 0, 0]
         tlinks[lid][IDX[e[9]]] += 1
+
 
 event_table = np.array([(events[i], 3 - events[i]) for i in events])
 # print(event_table)
