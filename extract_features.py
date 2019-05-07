@@ -1,7 +1,8 @@
 import re
+import nltk
 """
-Recover two entities in the tlink tags and add their context words (winder of 2)
-Output: C-2, C-1, W1, C+1, C+2, C-2, C-1, W2, C+1, C+2, target label
+Recover two entities in the tlink tags and add their context words (window of 2)
+Output: C-2, C-1, W1, C+1, C+2, C-2, C-1, W2, C+1, C+2, annotation of W1, annotation of W2, target label
 """
 
 re_unitid = re.compile('(<UNIT_ID=")(.*?)(">)')
@@ -75,6 +76,16 @@ with open("features_silver.txt", "w") as fo:
         w2 = data[second_start: second_end].lower()
         w2p = previous2(data, second_start)
         w2n = next2(data, second_end)
-        fo.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n'%
-                 (w1p[0], w1p[1], w1, w1n[0], w1n[1], w2p[0], w2p[1], w2, w2n[0], w2n[1], target))
 
+        text = ' '.join([w1, w2])
+        print(text)
+
+        pt = nltk.pos_tag(nltk.word_tokenize(text))
+        print(pt)
+
+        w1_pos, w2_pos = pt[0][1], pt[1][1]
+        print(w1_pos, w2_pos)
+
+        fo.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n'%
+                 (w1p[0], w1p[1], w1, w1n[0], w1n[1], w2p[0], w2p[1], w2, w2n[0], w2n[1],
+                  w1_pos, w2_pos, tag[1], tag[5], target))
