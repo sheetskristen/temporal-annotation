@@ -13,11 +13,12 @@ The project set-up files for use with [MAE](https://keighrim.github.io/mae-annot
 The set of data annotated by three annotators can be found in raw_annotation_data, in subdirectories organized by annotator. 
 
 **Code**
+
 The code for running our classifier should be run in the following order. 
 
 Converts the source csv to batched xml files for use in MAE:
 
-+ csv_xml.py*\
++ csv_xml.py
 
 Extract tags and their position information from MAE-generated XML files:
 
