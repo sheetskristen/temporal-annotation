@@ -3,7 +3,7 @@
 This is temporal annotation project, tailored to the annotation of economic news. The annotation guidelines are many ways are a streamlining of TimeML, from which they draw deep inspiration.
 
 
-This repository includes three things: the set-up files for annotation, a set of data annotated by three annotators (in raw_annotation_data), and the code needed to run our baseline classifier which was trained on the preliminary annotations. 
+This repository includes three things: the set-up files for annotation, a set of data annotated by three annotators, and the code needed to run our baseline classifier which was trained on the preliminary annotations. 
 
 The project set-up files for use with [MAE](https://keighrim.github.io/mae-annotation/), which includes: 
 + MAE Set-up File (temporal_annoation.dtd)
@@ -12,7 +12,7 @@ The project set-up files for use with [MAE](https://keighrim.github.io/mae-annot
 
 The set of data annotated by three annotators can be found in raw_annotation_data, in subdirectories organized by annotator. 
 
-The code from running our classifier should be run in the following order. 
+The code for running our classifier should be run in the following order. 
 
 Converts the source csv to batched xml files for use in MAE
 + csv_xml.py
