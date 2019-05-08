@@ -14,7 +14,7 @@ files = ['NEWS-1_1-DD.xml', 'NEWS-1_1-EF.xml', 'NEWS-1_1-LC.xml',
 news_dict = {f: set() for f in files}
 
 for f in files:
-    data = open(f).read()
+    data = open('annotated_data/' + f).read()
     for match in re_unitid.findall(data):
         uid = match[1]
         news_dict[f].add(uid)
