@@ -42,7 +42,7 @@ Obtain bag-of-words and tag features from standard datasets:
 
 Implement a logistic regression model for link classification, train, and evaluate:
 
-build_model.py
++ build_model.py
 
 **Datasets**
 
