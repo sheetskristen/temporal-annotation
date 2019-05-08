@@ -4,7 +4,7 @@ DD = []
 LC =[]
 EF = []
 
-path = os.getcwd()
+path = 'annotated_data'
 
 for root, dirs, files in os.walk(path):
     for f in files:
