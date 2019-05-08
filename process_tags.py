@@ -5,7 +5,7 @@ from xml.etree import ElementTree as ET
 re_unitid = re.compile('(<UNIT_ID=")(.*?)(">)')
 
 
-for fn in os.listdir('.'):
+for fn in os.listdir('annotated_data'):
     if not fn.endswith('.xml'):
         continue
     uids = []
@@ -61,8 +61,8 @@ for fn in os.listdir('.'):
         for t in tlinks:
             fo.write('TLINK\t')
             fo.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n'% t)
-            
-        
-            
-        
-        
+
+
+
+
+
